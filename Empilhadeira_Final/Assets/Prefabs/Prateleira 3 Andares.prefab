@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7116007346326359820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2101006567405911290}
+  m_Layer: 0
+  m_Name: Prateleira 3 Andares
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2101006567405911290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7116007346326359820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 1806279400137731573}
+  - {fileID: 1806279398916471890}
+  - {fileID: 4811070369227195520}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2886431367822375251
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2101006567405911290}
+    m_Modifications:
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7070948
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -1.4690726e-21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071188
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 8.65956e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203067016148230075, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_Name
+      value: Prateleira (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+--- !u!4 &1806279398916471890 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+  m_PrefabInstance: {fileID: 2886431367822375251}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2886431368706648308
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2101006567405911290}
+    m_Modifications:
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.797
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7070948
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -1.4690726e-21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071188
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 8.65956e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203067016148230075, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_Name
+      value: Prateleira (32)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+--- !u!4 &1806279400137731573 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+  m_PrefabInstance: {fileID: 2886431368706648308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8348477992685306241
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2101006567405911290}
+    m_Modifications:
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7070948
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -1.4690726e-21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071188
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 8.65956e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203067016148230075, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+      propertyPath: m_Name
+      value: Prateleira (53)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+--- !u!4 &4811070369227195520 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3539718815491114241, guid: 52bcb4650c26b35459fa2531327bcabf, type: 3}
+  m_PrefabInstance: {fileID: 8348477992685306241}
+  m_PrefabAsset: {fileID: 0}
